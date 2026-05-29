@@ -1,2 +1,12 @@
 # hello-world
+
+## about
 just a program that prints hello world
+
+## how to install
+go to the releases tab, and choose hello-world
+
+inside the release, click on hello-world.exe
+
+## what the program will do
+printf("hello world");
