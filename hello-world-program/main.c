@@ -1,5 +1,7 @@
-#include "source.h"
+#include <stdio.h>
+
+extern char msg[];
 
 int main() {
-    run();
+    printf("%s", msg);
 }
