@@ -1,7 +1,7 @@
-# hello-world
+# hello-world-program
 
 ## about
-just a program that prints hello world
+an program that prints hello world
 
 ## how to install
 go to the releases tab, and choose hello-world
